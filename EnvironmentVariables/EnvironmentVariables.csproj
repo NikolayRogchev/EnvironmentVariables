@@ -7,6 +7,16 @@
     <Authors>nrogchev</Authors>
     <Description>A simple class, which maps environment variables to the corresponding properties in a derived class</Description>
     <PackageProjectUrl>https://github.com/NikolayRogchev/EnvironmentVariables</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/NikolayRogchev/EnvironmentVariables</RepositoryUrl>
+    <PackageTags>environment;environmentvariables;variables;variable;utility;</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
