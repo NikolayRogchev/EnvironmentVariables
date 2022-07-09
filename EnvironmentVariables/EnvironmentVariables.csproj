@@ -5,6 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>nrogchev</Authors>
+    <Description>A simple class, which maps environment variables to the corresponding properties in a derived class</Description>
+    <PackageProjectUrl>https://github.com/NikolayRogchev/EnvironmentVariables</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
